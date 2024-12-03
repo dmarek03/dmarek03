@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Dominik**, a third year student of CS Course on AGH University of Science and Technology in Cracow, aiming to become a Back-End Developer. I'm passionate about data analysis, artificiall intelligence. Currently I am mostly interested in  Python 🐍, but besides completing my studies, I am consistently developing my knowledge in programming languages and technologies.
+I am **Dominik**, a third year student of CS Course at AGH University of Science and Technology in Cracow, aiming to become a Back-End Developer. I'm passionate about data analysis, artificiall intelligence. Currently I am mostly interested in  Python 🐍, but besides completing my studies, I am consistently developing my knowledge in programming languages and technologies.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmarek03&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmarek03&langs_count=8&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
