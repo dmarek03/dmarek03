@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Dominik**, a 4th year student of CS Course at AGH University of Science and Technology in Cracow, aiming to become a Back-End Developer. I'm passionate about data analysis, artificiall intelligence. Currently I am mostly interested in  Python 🐍, but besides completing my studies, I am consistently developing my knowledge in programming languages and technologies.
+I am **Dominik**, a 4th year student of CS Data Science Course at AGH University of Science and Technology in Cracow, aiming to become a Back-End Developer. I'm passionate about data analysis, artificiall intelligence. Currently I am mostly interested in  Python 🐍, but besides completing my studies, I am consistently developing my knowledge in programming languages and technologies.
 
 
 
